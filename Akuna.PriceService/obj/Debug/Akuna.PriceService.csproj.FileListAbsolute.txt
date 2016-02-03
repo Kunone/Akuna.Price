@@ -1,0 +1,4 @@
+C:\kun\Akuna.Price\Akuna.PriceService\bin\Debug\Akuna.PriceService.dll
+C:\kun\Akuna.Price\Akuna.PriceService\bin\Debug\Akuna.PriceService.pdb
+C:\kun\Akuna.Price\Akuna.PriceService\obj\Debug\Akuna.PriceService.dll
+C:\kun\Akuna.Price\Akuna.PriceService\obj\Debug\Akuna.PriceService.pdb

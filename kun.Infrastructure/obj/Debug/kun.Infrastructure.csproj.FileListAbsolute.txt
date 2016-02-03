@@ -1,0 +1,4 @@
+C:\kun\Akuna.Price\kun.Infrastructure\bin\Debug\kun.Infrastructure.dll
+C:\kun\Akuna.Price\kun.Infrastructure\bin\Debug\kun.Infrastructure.pdb
+C:\kun\Akuna.Price\kun.Infrastructure\obj\Debug\kun.Infrastructure.dll
+C:\kun\Akuna.Price\kun.Infrastructure\obj\Debug\kun.Infrastructure.pdb
